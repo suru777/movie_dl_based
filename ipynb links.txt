@@ -1,0 +1,5 @@
+face emotion model : https://colab.research.google.com/drive/1kCL-MMGHFjDfgyxZkv3fvKi2FzRyivGL?usp=sharing
+text based model : https://colab.research.google.com/drive/1EugHFs1hNjvOdW59ivk_iIIt97cckPyA?usp=sharing
+text based sentiment analysis and movie recommender: https://colab.research.google.com/drive/17wfeJ7CzSasuRrBBvz1nnLMY4YP0YFMg?usp=sharing
+movie recommender model : https://colab.research.google.com/drive/1ch-4GJGeJqpM1XSoARUk64nDdbA-STpU?usp=sharing
+imdb scraper : https://colab.research.google.com/drive/1m8ySvqTlD-UiB57L-CCk173A-Gq1p-HO?usp=sharing
